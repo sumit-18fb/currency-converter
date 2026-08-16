@@ -60,8 +60,6 @@ Currency-Converter/
 * Add conversion history
 * Improve overall UI/UX
 
-## 📌 Note
+This project is being developed as a JavaScript practice project to understand DOM manipulation, events, APIs, dropdowns, and dynamic web application functionality.
 
-This project is being developed as a **JavaScript practice project** to understand DOM manipulation, events, APIs, dropdowns, and dynamic web application functionality.
-
-**Status: 🚧 Work in Progress**
+Status: 🚧 Work in Progress
