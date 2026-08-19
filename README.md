@@ -2,7 +2,11 @@
 
 A simple **Currency Converter web application** built using **HTML, CSS, and JavaScript**.
 
+## 🚧 Project Status
 
+**⚠️ Work in Progress — Partially Completed**
+
+This project is currently **halfly completed**. The basic user interface and currency selection functionality have been created, but some JavaScript functionality is still under development.
 
 ### ✅ Completed
 
